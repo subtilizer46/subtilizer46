@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">
 
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">👨‍💻 I specialize in technologies like Python, HTML, CSS, JavaScript, React JS, Flask, MongoDB and Django. Coding enthusiast by day, security nerd by night.</h3>
