@@ -1,10 +1,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">
 
 <h1 align="center">Hi 👋, I'm Rahul</h1>
-<h3 align="center">👨‍💻 I specialize in technologies like Python, HTML, CSS, JavaScript, React JS, Flask, MongoDB and Django. Coding enthusiast by day, security nerd by night.</h3>
-<h3>💻 Passionate about continuous learning and self-improvement. When I'm not coding, you'll find me at the gym.🏋️‍♂️</h3>
-<h3> Let's connect and collaborate together! 💰 </h3>
-<h3>📫 Feel free to reach out to me for tech discussions or just a friendly chat. Let's code our way to success! 🚀</h3>
+<h3>👨‍💻 I specialize in technologies like Python, HTML, CSS, JavaScript, ReactJS, Flask, MongoDB and Django. Coding enthusiast by day,security nerd by night.</h3>
+<h3>💻 Passionate about continuous learning and self-improvement. When I'm not coding, you'll find me at the gym.🏋️‍♂ Let's connect and collaborate together! 💰 </h3>
+<h3>📫 Feel free to reach out to me for tech discussions or just a friendly chat. Let's code our way to success!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subtilizer46&label=Profile%20views&color=0e75b6&style=flat" alt="subtilizer46" /> </p>
 
